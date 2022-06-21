@@ -109,3 +109,19 @@ a {
   transform: scale(1.1);
   opacity: 1;
 }
+
+@media screen and (max-width: 1000px) {
+  .container {
+    flex-direction: column;
+
+    padding: 1em;
+  }
+
+  .card + .card {
+    margin-left: unset;
+  }
+
+  .card {
+    margin: 2em auto;
+  }
+}
