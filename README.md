@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/zaidansari42/Hover-Card-Effect/)
-- Live Site URL: [Live Website](https://zaidansari42.github.io/Hover-Card-Effect/)
+- Solution URL: [Github](https://github.com/zaidansari42/BG-Blur-Card-Hover-Effect/)
+- Live Site URL: [Live Website](https://zaidansari42.github.io/BG-Blur-Card-Hover-Effect/)
 
 ## My process
 
